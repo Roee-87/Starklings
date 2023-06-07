@@ -7,6 +7,6 @@
 use debug::PrintTrait;
 
 fn main() {
-    x: felt252 = 5;
+    let x: felt252 = 5;
     x.print();
 }
